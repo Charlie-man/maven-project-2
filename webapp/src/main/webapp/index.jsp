@@ -7,14 +7,14 @@
 <style>
 /* Header/logo Title */
 .header {
-  padding: 50px;
+  padding: 80px;
   text-align: center;
   background: #1abc9c;
   color: blue;
 }
 /* Increase the font size of the heading */
 .header h1 {
-  font-size: 80px;
+  font-size: 50px;
 }
 </style>
 </head>

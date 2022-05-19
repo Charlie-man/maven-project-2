@@ -7,7 +7,7 @@
 <style>
 /* Header/logo Title */
 .header {
-  padding: 80px;
+  padding: 250px;
   text-align: center;
   background: #1abc9c;
   color: blue;

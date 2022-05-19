@@ -7,7 +7,7 @@
 <style>
 /* Header/logo Title */
 .header {
-  padding: 250px;
+  padding: 150px;
   text-align: center;
   background: #1abc9c;
   color: blue;
@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Sample Java Webapp</h1>
-  <p>Hello SOURCED GROUP!</p>
+  <h1>Hello SOURCED GROUP</h1>
+  <p>Sample Java Webapp!</p>
 </div>
 </body>
 </html>
